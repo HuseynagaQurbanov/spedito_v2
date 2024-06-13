@@ -1,0 +1,15 @@
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\bin\Debug\net8.0\Spedito_V2_DbApp.exe
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\bin\Debug\net8.0\Spedito_V2_DbApp.deps.json
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\bin\Debug\net8.0\Spedito_V2_DbApp.runtimeconfig.json
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\bin\Debug\net8.0\Spedito_V2_DbApp.dll
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\bin\Debug\net8.0\Spedito_V2_DbApp.pdb
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.AssemblyInfoInputs.cache
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.AssemblyInfo.cs
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.csproj.CoreCompileInputs.cache
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.sourcelink.json
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.dll
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\refint\Spedito_V2_DbApp.dll
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.pdb
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\Spedito_V2_DbApp.genruntimeconfig.cache
+D:\Workspace\spedito_v2\Spedito V2\Spedito_V2_DbApp\obj\Debug\net8.0\ref\Spedito_V2_DbApp.dll

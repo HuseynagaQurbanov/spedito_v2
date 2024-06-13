@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Spedito_V2_DbApp/1.0.0": {
+        "runtime": {
+          "Spedito_V2_DbApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spedito_V2_DbApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
